@@ -1,16 +1,13 @@
-## Hi there 👋
+## hello
 
-<!--
-**Porridge69420/Porridge69420** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+doing this because i have to
 
-Here are some ideas to get you started:
+i find python kinda rubish 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+prefer c++
+
+
+im not very good at programming tho XD
+
+
+Have a nice day
